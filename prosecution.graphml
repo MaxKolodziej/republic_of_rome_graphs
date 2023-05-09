@@ -94,8 +94,8 @@ Check the Popular Appeal table for Y<y:LabelModel><y:SmartNodeLabelModel distanc
           <y:Geometry height="58.0" width="232.0" x="196.0" y="544.5"/>
           <y:Fill color="#FFFF99" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="160.94921875" x="35.525390625" xml:space="preserve" y="13.03125">Verdict = Senate Votes +
-Senator Influence + X + Y<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="170.5234375" x="30.73828125" xml:space="preserve" y="13.03125">Verdict = Senate Votes +
+Accussed Influence + X + Y<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:Shape type="rectangle"/>
         </y:ShapeNode>
       </data>
@@ -417,7 +417,6 @@ after all prosecutions are done<y:LabelModel><y:SmartNodeLabelModel distance="4.
       </data>
     </edge>
     <edge id="e15" source="n14" target="n16">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -428,7 +427,6 @@ after all prosecutions are done<y:LabelModel><y:SmartNodeLabelModel distance="4.
       </data>
     </edge>
     <edge id="e16" source="n13" target="n16">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -441,7 +439,6 @@ after all prosecutions are done<y:LabelModel><y:SmartNodeLabelModel distance="4.
       </data>
     </edge>
     <edge id="e17" source="n10" target="n17">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -453,7 +450,6 @@ after all prosecutions are done<y:LabelModel><y:SmartNodeLabelModel distance="4.
       </data>
     </edge>
     <edge id="e18" source="n10" target="n18">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -465,7 +461,6 @@ after all prosecutions are done<y:LabelModel><y:SmartNodeLabelModel distance="4.
       </data>
     </edge>
     <edge id="e19" source="n17" target="n16">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -478,7 +473,6 @@ after all prosecutions are done<y:LabelModel><y:SmartNodeLabelModel distance="4.
       </data>
     </edge>
     <edge id="e20" source="n18" target="n16">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-94.0" ty="-7.5">
@@ -491,7 +485,6 @@ after all prosecutions are done<y:LabelModel><y:SmartNodeLabelModel distance="4.
       </data>
     </edge>
     <edge id="e21" source="n12" target="n11">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -502,7 +495,6 @@ after all prosecutions are done<y:LabelModel><y:SmartNodeLabelModel distance="4.
       </data>
     </edge>
     <edge id="e22" source="n8" target="n19">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -515,7 +507,6 @@ after all prosecutions are done<y:LabelModel><y:SmartNodeLabelModel distance="4.
       </data>
     </edge>
     <edge id="e23" source="n7" target="n19">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
