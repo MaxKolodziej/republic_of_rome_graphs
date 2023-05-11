@@ -5,6 +5,9 @@ Some graphs for Republic of Rome board game to help a bit with game rules. I use
 ## War activation
 <img src="/images/wars.png">
 
+## War result
+<img src="/images/war_result.png">
+
 ## Prosecution
 <img src="/images/prosecution.png">
 
