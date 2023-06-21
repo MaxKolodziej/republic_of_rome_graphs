@@ -2,6 +2,13 @@
 
 Some graphs for Republic of Rome board game to help a bit with game rules. I used yEd editor to edit those.
 
+
+## Persuasion
+<img src="/images/persuasion_easy.png">
+
+## Persuasion graph
+<img src="/images/persuasion.png">
+
 ## War activation
 <img src="/images/wars.png">
 
@@ -10,9 +17,6 @@ Some graphs for Republic of Rome board game to help a bit with game rules. I use
 
 ## Prosecution
 <img src="/images/prosecution.png">
-
-## Persuasion
-<img src="/images/persuasion.png">
 
 ## Elections
 <img src="/images/elections.png">
